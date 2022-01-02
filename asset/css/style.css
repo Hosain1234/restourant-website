@@ -1,0 +1,46 @@
+/* for full page */
+body {
+    font-family: "Open Sans", sans-serif;
+    background: #0c0b09;
+    color: #fff;
+  }
+a {
+    color: #cda45e;
+    text-decoration: none;
+  }
+a:hover {
+    color: #d9ba85;
+    text-decoration: none;
+  }
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Playfair Display", serif;
+  }
+/* for every part */
+.section-1 li{
+    margin-left: 30px;
+}
+.section-2 img{
+  width: 100%;
+  margin-top: 10%;
+}
+.menu-image{
+  width: 100%;
+  border-radius: 50%;
+  padding: 5%;
+}
+.menu-img{
+  height: 70px;
+  width: 70px;
+  border-radius: 50%;
+}
+.menu-main-name{
+  padding: 2%;
+}
+.carousel-indicators li{
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+}
+.carousel-indicators {
+  bottom: -50px;
+}
